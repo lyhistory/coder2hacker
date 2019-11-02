@@ -7,10 +7,10 @@
 这里只是公开部分资源，需要更多资源或者答疑请扫描加入我的知识星球：
 
 >>>加入知识星球
-![](/content/images/zhishixingqiu.png =300px)
+![](/content/images/zhishixingqiu.png =250x)
 
 >>>关注公众号
-![](/content/images/weixin_qrcode.jpg)
+![](/content/images/weixin_qrcode.jpg =100x)
 
 # 开放的资源（持续更新...)
 
